@@ -1,9 +1,0 @@
-127.0.0.1localhost.gitlab.local
-192.16.1.178prometheus.test
-192.169.1.160gitlab.test
-127.0.0.2localhost.gitlab.local
-192.169.1.160  gitlab.test
-192.16.1.178 prometheus.test
-192.169.1.160  gitlab.test
-127.0.0.2 localhost.gitlab.local.me
-127.0.0.2 localhost.gitlab.local.me2

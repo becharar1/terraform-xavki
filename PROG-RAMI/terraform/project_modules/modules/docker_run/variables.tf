@@ -1,2 +1,0 @@
-variable "ssh_host"{
-}

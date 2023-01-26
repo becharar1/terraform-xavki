@@ -1,5 +1,0 @@
-127.0.0.1 localhost
-192.169.1.160 gitlab.test
-127.0.0.1 localhost
-192.169.1.160 gitlab.test
-127.0.0.1 localhost2
